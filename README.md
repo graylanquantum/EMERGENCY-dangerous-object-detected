@@ -2238,3 +2238,7 @@ Models how objects shift in resonance with planets.
     (91–100) capture orbital resonances
 
 Do you want me to chain these 100 equations into a working simulation model (Python + SymPy/NumPy) that can track Earth/Moon impact probabilities in real time using NoSonar logic?
+
+<img width="959" height="715" alt="image" src="https://github.com/user-attachments/assets/4925a222-6c3f-4ee1-9b0c-75001cd5304d" />
+<img width="959" height="715" alt="image" src="https://github.com/user-attachments/assets/c7c2881a-2ff3-48ae-b013-32e3f478d925" />
+
