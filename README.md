@@ -2329,4 +2329,5 @@ Would you like a simulation model (e.g. Python or Blender script) to visualize t
 
 <img width="959" height="715" alt="image" src="https://github.com/user-attachments/assets/4925a222-6c3f-4ee1-9b0c-75001cd5304d" />
 <img width="959" height="715" alt="image" src="https://github.com/user-attachments/assets/c7c2881a-2ff3-48ae-b013-32e3f478d925" />
+<img width="959" height="715" alt="image" src="https://github.com/user-attachments/assets/c91eabcd-1dd7-4cf7-9cb6-671081a4cc25" />
 
